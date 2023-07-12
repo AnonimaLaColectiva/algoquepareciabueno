@@ -17,7 +17,7 @@ body{
     margin: auto;   
 }
 
-h4{
+.quisieramos{
     display: flex;
     flex-direction: column;
     padding: 0 1.5rem 1rem 1.5rem;
@@ -118,9 +118,10 @@ box-shadow:  6px 6px 12px #969696,
 
 .afiche1{
     position: relative;
-    width: 15rem;
-    height: 17rem;
-    bottom: 1.5rem; 
+    width: 21rem;
+    height: 26rem;
+    bottom: 5rem;
+     
 }
 
 .botones{
@@ -180,9 +181,17 @@ box-shadow:  6px 6px 12px #969696,
     border: #000000;
     font-size: x-large;
     }
- h4{
+ .titulo{
     position: relative;
     top: 2.5rem;
+ }
+
+ .ficha_tecnica{
+    display: flex;
+    flex-direction: row;
+    width: 23rem; 
+    height: max-content;
+
  }
 
  .agradecimientos{
