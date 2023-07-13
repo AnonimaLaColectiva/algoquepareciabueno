@@ -16,6 +16,9 @@ body{
     padding: 0rem 1rem;
     margin: auto;   
 }
+.afiche{
+    padding: 2rem 0 0 0;
+}
 
 .quisieramos{
     display: flex;
@@ -242,6 +245,21 @@ box-shadow:  6px 6px 12px #969696,
     margin: auto;
     justify-content: flex-end;
     font-weight: bold;
+ }
+
+ .siguenos{
+    display: flex;
+    position: relative;
+    top: 47rem;
+    margin: auto;
+    padding: auto;
+    
+ }
+
+ .siguenos a{
+    color: #000000;
+    padding: 1px;
+    
  }
  /* .agradecimientos ul{
     display: flex;
