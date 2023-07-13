@@ -236,6 +236,13 @@ box-shadow:  6px 6px 12px #969696,
  span{
     font-weight: bold;
  }
+ .historia_final{
+    display: flex;
+    padding: 10rem 1rem 1rem 1rem;
+    margin: auto;
+    justify-content: flex-end;
+    font-weight: bold;
+ }
  /* .agradecimientos ul{
     display: flex;
     flex-direction: row;

@@ -11,7 +11,11 @@ window.onload = function() {
     
     function redirectHandler(){
       
-        window.location = 'final.html'
+        // window.location = 'final.html'
+        window.location = 'historiafinal.html'
+        
     }
     document.getElementById('my_audio').addEventListener('ended', redirectHandler, false)
+
+    
   };
