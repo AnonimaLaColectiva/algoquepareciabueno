@@ -261,6 +261,13 @@ box-shadow:  6px 6px 12px #969696,
     padding: 1px;
     
  }
+
+ .sara{
+    display: flex;
+    padding: auto 4rem;
+    position: relative;
+    top: 6rem;
+ }
  /* .agradecimientos ul{
     display: flex;
     flex-direction: row;
