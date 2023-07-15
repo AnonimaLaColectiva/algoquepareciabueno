@@ -264,9 +264,9 @@ box-shadow:  6px 6px 12px #969696,
 
  .sara{
     display: flex;
-    padding: auto 4rem;
+    padding: 1rem 4rem;
     position: relative;
-    top: 6rem;
+    top: 10rem;
  }
  /* .agradecimientos ul{
     display: flex;
